@@ -22,7 +22,9 @@ section {
 
 .nav-link {
     color: #CB6D43;
-    font-weight: 200;
+    font-weight: 600;
+    height: 146;
+    width: 219;
 }
 
 .inicio-fundo {
